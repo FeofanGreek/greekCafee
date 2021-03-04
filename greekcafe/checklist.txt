@@ -1,0 +1,44 @@
+Собрать все картинки
+Нарезать картинки под размер cамого большого экрана
+Создать бд меню нового кафе
+Копирую настройки из pubspec.yaml
+Копирую папку images в папку приложения
+Делаю pub get и pub upgrade
+Копирую файлы приложения в папку lib с заменой
+Заменить ID кафе!!!
+Копирую тескт в app/build.gradle сохраняя название проекта
+Копирую тескт в android/build.gradle сохраняя название проекта
+Копирую google-services.json из панели firebase
+Сохраняю в панели свои SHA-1 и SHA-256 (gradle open in android studio push left gradle scripts them right gradle android apptasks android signinreport)
+Копирую GoogleService-Info.plist в Runner
+В консоли firebase сохраняю ключик от Apple
+Копирую всю информацию в AndroidManifest.xml не трогая package, label
+Делаем иконки  /Users/apple/Documents/flutter/bin/flutter pub run flutter_launcher_icons:main -f '/Users/apple/Documents/flutter project/wcincity/pubspec.yaml'
+Открываем проект в Android Studio
+Проверяем  в AndroidManifest.xml <application
+        android:label="Merso"
+        android:icon="@mipmap/launcher_icon"
+        android:roundIcon="@mipmap/launcher_icon_round">
+iOS runer info.plist вставить типы URL для звонков по телефону
+iOS runer info.plist вставить название приложения заменив пробелы на спец код &#x2007;
+iOS runer info.plist вставить тип ссылки на гугл 
+Открыть info.plist в XCode
+Runer Signing Capatibles Team and + Push Notifications
+uner Signing Capatibles Team and + BackgroundModes + галка Remote notifications
+Runer добавить файл GoogleService.plist
+LaunchScreen добавить Image set самую большую картинку, отступы сделать 0 1000 0 1000 и отцентровать
+Выйти из XCode
+При первом запуске удалить приложение в эмулятора, если осталось от прежних
+Пробуем запустить первый раз под iOS
+Проверить СМС и запись профиля
+Проверить появление токена в БД
+При первом запуске удалить приложение в эмулятора, если осталось от прежних
+Пробуем запустить первый раз под Android
+Проверить СМС и запись профиля
+Проверить появление токена в БД
+Перед релизом в магазин гугл выполнить инструкцию https://flutter.dev/docs/deployment/android
+Выполнить Flutter Clean и добавить в Firebase боевые ключи SHA
+потом добавить в файрбейз ключи СХА из Гугла https://play.google.com/console/u/0/developers/7771800652702024450/app/4974808574955976306/keymanagement а то не будут приходить подтверждалки СМС
+при генерации приложения в XCode сделать https://pub.flutter-io.cn/packages/firebase_messaging app delegate, info.plist proxy
+
+        
